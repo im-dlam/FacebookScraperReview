@@ -15,8 +15,6 @@
 
 # Hướng dẫn sử dụng
 
-# Hướng dẫn sử dụng
-
 ## Cài đặt các thư viện
 
 Chạy lệnh sau để cài đặt các thư viện cần thiết:
